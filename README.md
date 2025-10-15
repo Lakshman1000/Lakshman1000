@@ -62,7 +62,7 @@ An AI-driven **semantic music recommender** that uses **OpenAI embeddings** and 
 
 ### 🧰 Tech Toolbox
 
-**Languages:** Python, SQL, R, Java  
+**Languages:** Python, SQL, R
 **ML/AI:** Scikit-Learn, XGBoost, Transformers (BERT, DeBERTa), Optuna  
 **Data Engineering:** Kafka, Airflow, AWS S3/RDS/Lambda, dbt  
 **Databases:** PostgreSQL, Snowflake, MySQL  
