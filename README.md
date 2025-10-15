@@ -71,12 +71,6 @@ An AI-driven **semantic music recommender** that uses **OpenAI embeddings** and 
 
 ---
 
-### 📊 GitHub Stats
-![Lakshmanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshman1000&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshman1000&layout=compact&theme=radical)
-
----
-
 ### 🌱 Currently Learning
 - Building **Agentic AI** pipelines with LangChain  
 - Deploying ML models with **AWS SageMaker + Lambda**  
